@@ -1,0 +1,33 @@
+agent,phase,epoch,task_a_accuracy,task_b_accuracy
+Replay stability agent,before_change,0,0.9929999709129333,0.49900001287460327
+No-replay agent,before_change,0,0.9934999942779541,0.4984999895095825
+Replay stability agent,after_change,1,0.921999990940094,0.5995000004768372
+No-replay agent,after_change,1,0.8420000076293945,0.6700000166893005
+Replay stability agent,after_change,2,0.8945000171661377,0.6244999766349792
+No-replay agent,after_change,2,0.7055000066757202,0.8065000176429749
+Replay stability agent,after_change,3,0.8924999833106995,0.6184999942779541
+No-replay agent,after_change,3,0.6014999747276306,0.9024999737739563
+Replay stability agent,after_change,4,0.8855000138282776,0.6340000033378601
+No-replay agent,after_change,4,0.559499979019165,0.9445000290870667
+Replay stability agent,after_change,5,0.8889999985694885,0.6225000023841858
+No-replay agent,after_change,5,0.5360000133514404,0.9695000052452087
+Replay stability agent,after_change,6,0.8924999833106995,0.6274999976158142
+No-replay agent,after_change,6,0.5249999761581421,0.9769999980926514
+Replay stability agent,after_change,7,0.8870000243186951,0.6294999718666077
+No-replay agent,after_change,7,0.5145000219345093,0.9835000038146973
+Replay stability agent,after_change,8,0.8830000162124634,0.6324999928474426
+No-replay agent,after_change,8,0.5120000243186951,0.9879999756813049
+Replay stability agent,after_change,9,0.8884999752044678,0.6299999952316284
+No-replay agent,after_change,9,0.5109999775886536,0.9894999861717224
+Replay stability agent,after_change,10,0.8980000019073486,0.6184999942779541
+No-replay agent,after_change,10,0.5074999928474426,0.9909999966621399
+Fresh Task B benchmark,new_initialization,1,0.4855000078678131,0.9415000081062317
+Fresh Task B benchmark,new_initialization,2,0.4984999895095825,0.9674999713897705
+Fresh Task B benchmark,new_initialization,3,0.49950000643730164,0.9750000238418579
+Fresh Task B benchmark,new_initialization,4,0.5005000233650208,0.9825000166893005
+Fresh Task B benchmark,new_initialization,5,0.5034999847412109,0.9879999756813049
+Fresh Task B benchmark,new_initialization,6,0.5040000081062317,0.9879999756813049
+Fresh Task B benchmark,new_initialization,7,0.5024999976158142,0.9884999990463257
+Fresh Task B benchmark,new_initialization,8,0.5024999976158142,0.9884999990463257
+Fresh Task B benchmark,new_initialization,9,0.5034999847412109,0.9894999861717224
+Fresh Task B benchmark,new_initialization,10,0.5019999742507935,0.9884999990463257
